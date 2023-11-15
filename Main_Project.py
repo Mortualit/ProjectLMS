@@ -3,7 +3,7 @@ from tkinter import ttk
 import sqlite3
 
 
-# Класс навнго окна
+# Класс главного окна
 
 
 class Main(tk.Frame):
